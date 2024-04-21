@@ -1,6 +1,6 @@
 This is a simulated web server created by Rust.
 
-The goal is to use Tokio to deal incoming requests asynchronously.
+The goal is to use Tokio to deal with incoming requests asynchronously.
 
 There are two threads - one is the main thread which only used to accept incoming requests, another is used to respond those requests.
 
